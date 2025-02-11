@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Dumat
 - 👀 I’m interested in mechanical engineering and electronics, I make combat robots - I work with 3D printers and 3D CAD Design on Solidworks. 
-- 🌱 I’m currently learning more about programming and that is why I created this github profile. I hope to post some CAD files and work on some code for 3D printers.
 - 📫 You can reach me here on GitHub.
 
 <!---
